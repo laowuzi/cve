@@ -6,7 +6,7 @@
 
 ## Software Link
 
-- `https://codezips.com/php/technical-discussion-forum-using-php-with-source-code/`
+- https://codezips.com/php/technical-discussion-forum-using-php-with-source-code/
 
 ## Vendor
 
