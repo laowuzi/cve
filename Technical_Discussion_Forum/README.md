@@ -1,4 +1,4 @@
-# Technical Discussion Forum Using PHP With Source Code  V1.0 search.php SQL injection
+# Technical Discussion Forum Using PHP With Source Code  V1.0 signinpost.php SQL injection
 
 ## NAME OF AFFECTED PRODUCT(S)
 
