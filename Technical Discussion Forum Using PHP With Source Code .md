@@ -4,9 +4,11 @@
 
 - ` Technical Discussion Forum Using PHP With Source Code V1.0`
 
-## Software Link
-
+## Vendor Homepage
 - https://codezips.com/php/technical-discussion-forum-using-php-with-source-code/
+
+## Software Link
+- https://codeload.github.com/codezips/Technical-Discussion-Forum/zip/master
 
 ## Vendor
 
