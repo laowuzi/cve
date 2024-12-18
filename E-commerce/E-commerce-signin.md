@@ -12,11 +12,15 @@
 
 ## submitter
 
-- zhangjiale
+- `zhangjiale`
+
+## Vendor
+
+- `codezips`
 
 ## Vulnerable File
 
-- signin.php
+- `signin.php`
 
 ## VERSION(S)
 
